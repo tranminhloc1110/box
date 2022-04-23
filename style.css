@@ -1,0 +1,12 @@
+h1{
+    background-color:darkgrey ; 
+    text-align: center;  
+    margin: 100px; 
+    padding: 100px; 
+    border: 200px solid white;
+    color: green;  
+    
+}
+body{
+    background-color: green;
+}
